@@ -1,5 +1,7 @@
 ## Introduction
 
+On 05Aug2014 the repo from rdpeng was forked and cloned, and the updates to the repo here are following completion of the assignment by user kharo.  Below is the original README.md text:
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
